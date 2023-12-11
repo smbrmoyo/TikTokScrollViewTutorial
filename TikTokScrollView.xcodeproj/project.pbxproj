@@ -27,6 +27,8 @@
 		04BCFB212B27A894005D2C2F /* video2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video2.mp4; sourceTree = "<group>"; };
 		04BCFB222B27A894005D2C2F /* video1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video1.mp4; sourceTree = "<group>"; };
 		04BCFB232B27A894005D2C2F /* video4.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video4.mp4; sourceTree = "<group>"; };
+		04BCFB282B27AC4B005D2C2F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		04BCFB292B27AC91005D2C2F /* .gitignore.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = .gitignore.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +45,8 @@
 		04BCFB062B27A6F5005D2C2F = {
 			isa = PBXGroup;
 			children = (
+				04BCFB292B27AC91005D2C2F /* .gitignore.md */,
+				04BCFB282B27AC4B005D2C2F /* README.md */,
 				04BCFB222B27A894005D2C2F /* video1.mp4 */,
 				04BCFB212B27A894005D2C2F /* video2.mp4 */,
 				04BCFB202B27A894005D2C2F /* video3.mp4 */,
